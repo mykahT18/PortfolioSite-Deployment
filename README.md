@@ -1,4 +1,4 @@
-# PortfolioSite-Deployment
+# Deployment
 ## Project Summary 
 ### This codebase is focusing on Setting up a server and installing Wordpress on that server. We will also cover the local installation and SCP (Secure Copy Protocol).
 
