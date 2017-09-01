@@ -34,7 +34,7 @@ If you don't have these things setup on your server [here](https://github.com/my
 	* The user credentials that you created on the server. (not root).
 	*  The IP address of the server
 	*  humans.txt 
-		* Grab human.txt from here and save it on your local machine.
+		* Grab human.txt from [here](https://raw.githubusercontent.com/mykahT18/PortfolioSite-Deployment/master/humans.txt) and save it on your local machine (`CMD S` or right click and Save As).
 
 Once you have downloaded the human.txt file you need to use terminal to navigate to that location you saved it in. `$ cd whatever/location/human.txt`
 
